@@ -28,3 +28,6 @@ phases:
   #files:
     #- '**/*'
   #base-directory: ../simple-python-app-ci-cd
+
+artifacts:
+  type: none
